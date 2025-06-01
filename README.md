@@ -156,8 +156,7 @@ GPAlytics is an academic assistance system that applies sound software engineeri
 
 📬 Contact
 
-📱 WhatsApp: https://wa.me/6289348505284  
-📧 Email: fikriaf.dev@gmail.com
+📧 Email: fikriarmia27@gmail.com
 
 ---
 
