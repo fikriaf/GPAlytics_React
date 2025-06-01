@@ -2,6 +2,7 @@
 
 GPAlytics is a web-based platform developed by Group 9 to assist students in monitoring, analyzing, and planning their academic progress through grade tracking and GPA prediction.
 
+![demo](demo.png)
 ---
 
 🛠 Technologies Used
