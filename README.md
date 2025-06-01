@@ -136,7 +136,7 @@ The interface design can be viewed on Figma:
 
 📁 Folder Structure
 ```bash
-GPAlytics_React/
+gpalytics/
 ├── public/
 ├── src/
 │   ├── components/
