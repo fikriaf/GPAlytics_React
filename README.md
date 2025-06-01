@@ -135,7 +135,7 @@ The interface design can be viewed on Figma:
 ---
 
 📁 Folder Structure
-
+```bash
 GPAlytics_React/
 ├── public/
 ├── src/
@@ -145,7 +145,7 @@ GPAlytics_React/
 │   └── App.jsx
 ├── package.json
 └── README.md
-
+```
 ---
 
 ✅ Conclusion
