@@ -5,7 +5,7 @@ import './styles/Signup.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGoogle } from '@fortawesome/free-brands-svg-icons';
 
-function Login() {
+function Signup() {
     const [name, setName] = useState('');
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
@@ -105,4 +105,4 @@ function Login() {
     );
 }
 
-export default Login;
+export default Signup;
