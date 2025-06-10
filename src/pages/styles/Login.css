@@ -1,0 +1,18 @@
+.loginOverlay {
+    transform: translateX(-100%);
+    opacity: 0;
+    animation: slideInLeft 0.6s ease-out forwards;
+}
+
+@keyframes slideInLeft {
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .headLogin {
+        display: inline !important;
+    }
+}

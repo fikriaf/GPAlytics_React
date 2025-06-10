@@ -1,0 +1,12 @@
+.SignupOverlay {
+    transform: translateX(-100%);
+    opacity: 0;
+    animation: slideInLeft 0.6s ease-out forwards;
+}
+
+@keyframes slideInLeft {
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}

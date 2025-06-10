@@ -1,0 +1,19 @@
+.detailProfile div img {
+    width: 8rem;
+    height: 8rem;
+}
+
+@media screen and (max-width: 768px) {
+    .detailProfile {
+        display: grid !important;
+    }
+    .vr {
+        display: none !important;
+    }
+    .columnLeft {
+        display: flex !important;
+    }
+    .bottomer {
+        margin-top: 3.7rem;
+    }
+}
